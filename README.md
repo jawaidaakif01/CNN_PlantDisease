@@ -36,7 +36,7 @@ requirements.txt: Necessary libraries for deployment.
 
 💻 Local Installation
 Clone the repo:
-git clone https://github.com/YOUR_USERNAME/Plant-Disease-AI.git
+git clone https://github.com/jawaidaakif01/CNN_PlantDisease.git
 
 Install dependencies:
 pip install -r requirements.txt
